@@ -25,6 +25,7 @@ Grakn：[[repo]](https://github.com/graknlabs/kglib)
 
 **Reasoning**  
 **GCN for Multi-hop Reasoning QA(NAACL-HLT 2019)**： [[paper]](https://arxiv.org/abs/1904.04969)  [[code]](https://github.com/caoyu1991/BAG)  
+
 **Graph Database**  
 Redis：[[repo]](https://github.com/RedisGraph/RedisGraph)  
 Blazegraph DB:[[repo]](https://github.com/blazegraph/database)  
