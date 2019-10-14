@@ -16,7 +16,7 @@ Graph Embedding with Self Clustering：[[repo]](https://github.com/benedekrozemb
 
 **GAT**  
 Knowledge Graph Attention Network for Recommendation(KDD 2019)：[[paper]](https://arxiv.org/abs/1905.07854) [[code]](https://github.com/xiangwang1223/knowledge_graph_attention_network)  
-Relational Graph Attention Networks：[[paper]](https://arxiv.org/abs/1904.05811) [[code]](https://github.com/Babylonpartners/rgat)
+Relational Graph Attention Networks：[[paper]](https://arxiv.org/abs/1904.05811) [[code]](https://github.com/Babylonpartners/rgat)  
 Dual Attention Graph Convolutional Networks：[[paper]](https://arxiv.org/abs/1904.02278) [[code]](https://github.com/dawenzi123/DAGCN)  
 
 **Knowledge Graph**  
