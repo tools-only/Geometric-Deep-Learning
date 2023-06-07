@@ -1,5 +1,5 @@
 # Geometric Deep Learning
-Papers about Graph convolutional networks, and reading notes on my blog [click here](http://www.deepboy.club)  
+Papers about Graph convolutional networks
 
 ## Collections of the latest graph learning projects  
 GCN Tutorial: [[repo]](https://github.com/dbusbridge/gcn_tutorial)  
